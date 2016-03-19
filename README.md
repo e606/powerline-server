@@ -1,13 +1,13 @@
 # Introduction
 Powerline is an open, social, streamlined mobile app and web platform that makes it easier for people to change their world through individual or collective action at the local and global levels. Think of it as Twitter/Yammer for democracy or as a community network for civil society (a.k.a. the non-profit and activist space).
 
-Learn more through the [Detailed Overview](https://assembly.com/powerline/posts/the-detailed-overview).
-For new contributors and general questions, check out the [FAQ](https://assembly.com/powerline/posts/faq)
+Learn more through the #no longer exist [Detailed Overview](https://assembly.com/powerline/posts/the-detailed-overview).
+For new contributors and general questions, check out the #no longer exist [FAQ](https://assembly.com/powerline/posts/faq)
 
 ## Open Source
 Powerline is now open source under the AGPL license for development with the Assembly community. Powerline runs as a SaaS application – there is a free “mission” tier as well as paid upgrade plans. With the Assembly platform, all generated revenue from the product is funneled into the project and it's contributors. After subtracting hosting costs and other expenses, 10% goes to Assembly as a fee and the rest is distributed back to project contributors via Assembly based on their ownership (determined by their project contributions).
 
-By contributing to Powerline, you’re making a difference for a fun open source project with a real world-changing mission and, unlike traditional OSS, you’re earning your fair share of the profits, too. To get started simply join us on our [Assembly Project Page](https://assembly.com/powerline).
+By contributing to Powerline, you’re making a difference for a fun open source project with a real world-changing mission and, unlike traditional OSS, you’re earning your fair share of the profits, too. To get started simply join us on our #no longer exist [Assembly Project Page](https://assembly.com/powerline).
 
 
 ## Server DEV Setup 
